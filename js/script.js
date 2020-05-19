@@ -1,6 +1,5 @@
 "use strict";
 const numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?", "");
-const reityng = prompt("На сколько оцените его?","");
 
 const personalMovieDB = {
     count : numberOfFilms ,
